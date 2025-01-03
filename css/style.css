@@ -102,6 +102,7 @@ button {
 
 .color {
     background-color: rgb(99, 198, 255);
+    transition: 2000ms;
 }
 
 .d-none {
